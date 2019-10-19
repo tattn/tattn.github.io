@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android | Academic</title>
+    <link>/tags/android/</link>
+      <atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>android</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/usericon.png</url>
+      <title>android</title>
+      <link>/tags/android/</link>
+    </image>
+    
+    <item>
+      <title>Babbling</title>
+      <link>/project/babbling/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/babbling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camereal</title>
+      <link>/project/camereal/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/camereal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
