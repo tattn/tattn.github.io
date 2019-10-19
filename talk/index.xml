@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 15:25:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/usericon.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>The Type-Safe World of Codable</title>
+      <link>/talk/tryswift2018/</link>
+      <pubDate>Fri, 02 Mar 2018 15:25:00 +0900</pubDate>
+      <guid>/talk/tryswift2018/</guid>
+      <description>&lt;p&gt;I talked about Codable at &lt;a href=&#34;https://www.tryswift.co/events/2018/tokyo/en/&#34; target=&#34;_blank&#34;&gt;try! Swift Tokyo 2018&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other talks</title>
+      <link>/talk/connpass/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0900</pubDate>
+      <guid>/talk/connpass/</guid>
+      <description>&lt;p&gt;I talked at &lt;a href=&#34;https://connpass.com/user/tattn/presentation/&#34; target=&#34;_blank&#34;&gt;some events&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

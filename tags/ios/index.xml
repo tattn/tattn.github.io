@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios | Academic</title>
+    <link>/tags/ios/</link>
+      <atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <description>ios</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/usericon.png</url>
+      <title>ios</title>
+      <link>/tags/ios/</link>
+    </image>
+    
+    <item>
+      <title>Babbling</title>
+      <link>/project/babbling/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/babbling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camereal</title>
+      <link>/project/camereal/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/camereal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VChara</title>
+      <link>/project/vchara/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/vchara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Effector</title>
+      <link>/project/voiceeffector/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0900</pubDate>
+      <guid>/project/voiceeffector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>乗換案内</title>
+      <link>/project/ytransit/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <guid>/project/ytransit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

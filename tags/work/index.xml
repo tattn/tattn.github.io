@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work | Academic</title>
+    <link>/tags/work/</link>
+      <atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <description>work</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/img/usericon.png</url>
+      <title>work</title>
+      <link>/tags/work/</link>
+    </image>
+    
+    <item>
+      <title>乗換案内</title>
+      <link>/project/ytransit/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0900</pubDate>
+      <guid>/project/ytransit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

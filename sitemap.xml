@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/app/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/babbling/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/camereal/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ios/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/unity/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vchara/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/voiceeffector/</loc>
+    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-03-02T15:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/tryswift2018/</loc>
+    <lastmod>2018-03-02T15:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/connpass/</loc>
+    <lastmod>2017-02-15T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/work/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ytransit/</loc>
+    <lastmod>2016-10-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+  </url>
+  
+</urlset>
