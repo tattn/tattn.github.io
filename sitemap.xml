@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/android/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+    <loc>/tags/app/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/app/</loc>
+    <loc>/tags/ios/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/weirdcam/</loc>
+    <lastmod>2019-11-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android/</loc>
     <lastmod>2018-08-18T00:00:00+09:00</lastmod>
   </url>
   
@@ -19,26 +44,6 @@
   
   <url>
     <loc>/project/camereal/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ios/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2018-08-18T00:00:00+09:00</lastmod>
   </url>
   
