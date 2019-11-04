@@ -6,7 +6,7 @@ date = 2019-11-03
 title = "WeirdCam"
 
 # Project summary to display on homepage.
-summary = "Weird Exciting Filters written in SwiftUI"
+summary = "Weird Exciting Filters / Written in SwiftUI"
 
 # Tags: can be used for filtering projects.
 tags = ["app", "ios"]
