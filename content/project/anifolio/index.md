@@ -12,7 +12,7 @@ summary = "アニメの視聴記録を残そう / Japanese anime viewing record 
 tags = ["app", "ios", "android", "flutter"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://apps.apple.com/jp/app/weirdcam/id1485146680?l=en"
+external_link = "https://apps.apple.com/app/anifolio/id1497422701"
 
 # Does the project detail page use math formatting?
 math = false
